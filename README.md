@@ -17,5 +17,5 @@ A simple and intuitive notes app built with Flutter to help users organize their
    ```bash
    flutter run
    ```
-## Como rodar
+## Tecnologias
 - Flutter
