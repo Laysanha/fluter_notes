@@ -6,7 +6,7 @@ A simple and intuitive notes app built with Flutter to help users organize their
 
 1. Clone o repositório:
    ```bash
-   git clone ...
+   git clone https://github.com/Laysanha/fluter_notes.git
    ```
     ```bash
     cd flutter-notes
