@@ -21,4 +21,4 @@ A simple and intuitive notes app built with Flutter to help users organize their
 - Flutter
 
 ## Figma
-- [https://www.figma.com/design/wpfHPkVO5pz8lb5Ks3s0gq/Notes-Flutter?node-id=1-2&t=8LQZ8bNJnrwfPtxo-1](Figma: Flutter Notes)
+- https://www.figma.com/design/wpfHPkVO5pz8lb5Ks3s0gq/Notes-Flutter?node-id=1-2&t=8LQZ8bNJnrwfPtxo-1
